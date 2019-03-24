@@ -1,27 +1,25 @@
 {
-	"orders": [{
-		"total": 2,
-		"per_page": 5,
-		"current_page": 1,
-		"last_page": 1,
-		"next_page_url": "https:\/\/vuetable.ratiw.net\/api\/users?page=2",
-		"prev_page_url": null,
-		"from": 1,
-		"to": 1,
-		"data": [{
-				"code": "SHS84860",
-				"document": "Устав, ВНЕСЕНИЕ ИЗМЕНЕНИЙ В РЕГИСТРАЦИОННЫЕ ДАННЫЕ, СВИДЕТЕЛЬСТВО О РЕГИСТРАЦИИ",
-				"agency": "DEIR",
-				"cost": "384.00",
-				"orderDate": "11.03.2019"
-			},
-			{
-				"code": "XBP44136",
-				"document": "Устав",
-				"agency": "Admiral",
-				"cost": "152.00",
-				"orderDate": "15.02.2019"
-			}
-		]
-	}]
+	"total": 2,
+	"per_page": 5,
+	"current_page": 1,
+	"last_page": 1,
+	"next_page_url": "https:\/\/vuetable.ratiw.net\/api\/users?page=2",
+	"prev_page_url": null,
+	"from": 1,
+	"to": 1,
+	"data": [{
+			"code": "SHS84860",
+			"document": "Устав, ВНЕСЕНИЕ ИЗМЕНЕНИЙ В РЕГИСТРАЦИОННЫЕ ДАННЫЕ, СВИДЕТЕЛЬСТВО О РЕГИСТРАЦИИ",
+			"agency": "DEIR",
+			"cost": "384.00",
+			"orderDate": "11.03.2019"
+		},
+		{
+			"code": "XBP44136",
+			"document": "Устав",
+			"agency": "Admiral",
+			"cost": "152.00",
+			"orderDate": "15.02.2019"
+		}
+	]
 }
