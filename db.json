@@ -1,4 +1,12 @@
 {
+	"total": 2,
+	"per_page": 5,
+	"current_page": 1,
+	"last_page": 1,
+	"next_page_url": "https:\/\/vuetable.ratiw.net\/api\/users?page=2",
+	"prev_page_url": null,
+	"from": 1,
+	"to": 1,
 	"data": [{
 			"code": "SHS84860",
 			"document": "Устав, ВНЕСЕНИЕ ИЗМЕНЕНИЙ В РЕГИСТРАЦИОННЫЕ ДАННЫЕ, СВИДЕТЕЛЬСТВО О РЕГИСТРАЦИИ",
